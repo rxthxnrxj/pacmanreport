@@ -98,7 +98,8 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1 className='topic'>Pac-Man Game</h1>
+      <h1 className='topic' style={{margin:'0'}}>Pac-Man Game</h1>
+      <h6 style={{color:'white'}}>CS205 - AI - Project Report <br/><span style={{fontSize:'70%'}}>( Use arrows to control the PacMan )</span></h6>
       <Row className='mt-3'>
       {foodOne && (<Row>
         <Col xl={4} className='card'>

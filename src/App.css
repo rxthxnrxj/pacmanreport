@@ -54,3 +54,9 @@ body {
   color:rgb(172, 172, 172);
   margin-top:-0.5rem !important;
 }
+
+h6{
+  margin: 0 !important;
+  padding:0 !important;
+  margin-bottom: 1rem !important;
+}
