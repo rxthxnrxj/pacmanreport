@@ -1,0 +1,7 @@
+/* src/components/Wall.css */
+.wall {
+    position: absolute;
+    background-color: #444;
+    border-radius: 5px;
+  }
+  

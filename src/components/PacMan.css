@@ -1,0 +1,9 @@
+/* src/components/PacMan.css */
+.pac-man {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 50%;
+  }
+  

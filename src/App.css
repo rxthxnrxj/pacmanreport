@@ -1,0 +1,56 @@
+/* src/App.css */
+body {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #222;
+}
+
+.app {
+  text-align: center;
+}
+
+
+.topic{
+  color:white
+}
+
+.card{
+  background-color: white;
+  border-radius: 30px;
+  max-width: 25rem;
+  padding:0.15rem;
+  margin:0.45rem;
+}
+.cardChallenge{
+  background-color: rgb(127, 226, 127);
+  color:white;
+  border-radius: 30px;
+  max-width: 25rem;
+  padding:0.15rem;
+  margin:0.45rem;
+}
+
+.cardTextChallenge{
+  color:white !important;
+}
+
+.cardTitle{
+  margin-top:0.2rem;
+  padding:0rem;
+}
+
+.cardText{
+  font-size: 13px;
+  color:grey;
+  margin-top:-0.5rem !important;
+}
+
+.cardTextChallenge{
+  font-size: 13px;
+  color:rgb(172, 172, 172);
+  margin-top:-0.5rem !important;
+}

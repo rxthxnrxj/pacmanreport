@@ -1,0 +1,20 @@
+/* src/components/GameBoard.css */
+.game-board {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: #222;
+  border: 5px solid #4852c8;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.toast{
+  position: absolute;
+  color:white
+
+}
+
+.notif{
+  position: absolute;
+}

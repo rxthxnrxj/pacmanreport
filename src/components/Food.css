@@ -1,0 +1,9 @@
+/* src/components/PacMan.css */
+.food {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+  }
+  
