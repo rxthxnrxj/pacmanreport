@@ -4,7 +4,10 @@ import PropTypes from 'prop-types';
 import './PacMan.css';
 
 const PacMan = ({ position }) => (
-  <div className="pac-man" style={{ left: position.x, top: position.y }} />
+  <div className="pac-man" style={{ left: position.x, top: position.y }}>
+    <div class="pacman__eye"></div>
+  <div class="pacman__mouth"></div>
+  </div>
 );
 
 PacMan.propTypes = {
