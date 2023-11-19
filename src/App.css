@@ -33,6 +33,14 @@ body {
   padding:0.15rem;
   margin:0.45rem;
 }
+.cardTeamDynamic{
+  background-color: rgb(127, 221, 226);
+  color:white;
+  border-radius: 30px;
+  max-width: 25rem;
+  padding:0.15rem;
+  margin:0.45rem;
+}
 
 .cardTextChallenge{
   color:white !important;
