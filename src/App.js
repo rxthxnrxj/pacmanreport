@@ -143,7 +143,7 @@ const App = () => {
       </Row>
 
       <div style={{marginTop:'1rem'}}>
-      <p className='cardTextChallenge m-0'>By PacMan and PacWoman</p>
+      <p className='cardTextChallenge m-0'>By PacMan(Rathin) and PacWoman(Pranali)</p>
       </div>
       
       
